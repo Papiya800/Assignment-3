@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="please_fill_out_all_fields">Please fill out all fields.</string>
+    <string name="product_information">Product Information</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_id">Product ID</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+</resources>
